@@ -14,6 +14,9 @@ CSV File → Python (Pandas ETL)
           → Google BigQuery (Data Warehouse)
 ```
 
+## 🏗️ Architecture Diagram
+
+![ETL Architecture](docs/Design_pic.png)
 ---
 
 ## ⚙️ Tech Stack
